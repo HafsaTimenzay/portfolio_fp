@@ -1,0 +1,41 @@
+
+
+#bkg{
+    padding: 0px;
+    height: 120px;
+    width: 5000px;
+
+    position: absolute;
+    z-index: -1;
+}
+td ul {
+    padding-top: 0px;
+    vertical-align: top;
+
+}
+#html{
+    width: 100px;
+    position: relative;
+    left: 46%;
+}
+#css{
+    width: 98px;
+    position: relative;
+    left: 50%;
+}
+.gray{
+    background-color: #EEEEEE;
+    width: 200px;
+
+}
+h1{
+    color: #003569;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.orange{
+    background-color: #FF6600;
+    text-align: center;
+    height: 50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
